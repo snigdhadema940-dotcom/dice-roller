@@ -8,5 +8,4 @@ An interactive Dice Roller is a fun web app where you can choose the number of d
 -HTML
 -CSS
 -Javascript
-## LIVE DEMO
-[click here to try the dice roller](https://snigdhadema940.github.io/dice-roller)
+
